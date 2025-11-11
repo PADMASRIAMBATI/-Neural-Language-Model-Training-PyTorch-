@@ -1,6 +1,6 @@
 ## 📄 `README.md`: NLM Training and Generalization Study
 
-# IIITH Research Internship - Assignment 2: Neural Language Model Training
+# Neural Language Model Training
 
 ## 🎯 Objective
 To implement and train a Causal Neural Language Model (NLM) from scratch using PyTorch and demonstrate fundamental concepts of deep learning generalization by running controlled experiments that showcase **Underfitting**, **Overfitting**, and **Optimal Fit**.
