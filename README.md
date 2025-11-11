@@ -1,6 +1,4 @@
-## 📄 `README.md`: NLM Training and Generalization Study
-
-# Neural Language Model Training
+# Neural Language Model Training (Pytoc
 
 ## 🎯 Objective
 To implement and train a Causal Neural Language Model (NLM) from scratch using PyTorch and demonstrate fundamental concepts of deep learning generalization by running controlled experiments that showcase **Underfitting**, **Overfitting**, and **Optimal Fit**.
@@ -10,7 +8,7 @@ To implement and train a Causal Neural Language Model (NLM) from scratch using P
 ### 1. Code & Access
 The entire project, including data loading, preprocessing, model definitions, and comparative training loops, is contained within the Colab notebook.
 
-* **Code File:** `Assignment-2.ipynb` (Included in this repository)
+* **Code File:** `Neural Language Model Training (PyTorch).ipynb` (Included in this repository)
 * **Execution Environment:** Designed for Google Colab (CUDA enabled).
 
 ### 2. Reproducibility Guarantee
